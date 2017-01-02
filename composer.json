@@ -1,0 +1,19 @@
+{
+    "name": "jamesjara/transcriptyoutube",
+    "description": "php transcript youtube api and xml parser without api key", 
+    "license": "MIT",
+    "keywords": ["transcript","youtube"],
+    "authors": [
+        {
+            "name": "james jara",
+            "email": "jamesjara@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "jamesjara\\TranscriptYoutube\\": "src"
+        }
+    }
+}
